@@ -59,7 +59,7 @@ voice_rec is a Python-based speech recognition project that leverages a 1D CNN (
 
 1. Train a language model and generate an ARPA file:
    ```bash
-   kenlm/bin/lmplz -o 3 < text_corpus.txt > lm.arpa
+   kenlm/bin/lmplz -o 4 < text_corpus.txt > lm.arpa
    ```
 2. Convert the ARPA model to binary:
    ```bash
