@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/21573877/README.md)
-# voice_rec
+# Speech rec
 
 ## Overview
 
